@@ -1,0 +1,9 @@
+C:\Users\Adomas\source\repos\NetaisyklingiVeiksmaz\NetaisyklingiVeiksmaz\bin\Debug\NetaisyklingiVeiksmaz.exe.config
+C:\Users\Adomas\source\repos\NetaisyklingiVeiksmaz\NetaisyklingiVeiksmaz\bin\Debug\NetaisyklingiVeiksmaz.exe
+C:\Users\Adomas\source\repos\NetaisyklingiVeiksmaz\NetaisyklingiVeiksmaz\bin\Debug\NetaisyklingiVeiksmaz.pdb
+C:\Users\Adomas\source\repos\NetaisyklingiVeiksmaz\NetaisyklingiVeiksmaz\obj\Debug\NetaisyklingiVeiksmaz.csprojAssemblyReference.cache
+C:\Users\Adomas\source\repos\NetaisyklingiVeiksmaz\NetaisyklingiVeiksmaz\obj\Debug\NetaisyklingiVeiksmaz.Form1.resources
+C:\Users\Adomas\source\repos\NetaisyklingiVeiksmaz\NetaisyklingiVeiksmaz\obj\Debug\NetaisyklingiVeiksmaz.Properties.Resources.resources
+C:\Users\Adomas\source\repos\NetaisyklingiVeiksmaz\NetaisyklingiVeiksmaz\obj\Debug\NetaisyklingiVeiksmaz.csproj.GenerateResource.cache
+C:\Users\Adomas\source\repos\NetaisyklingiVeiksmaz\NetaisyklingiVeiksmaz\obj\Debug\NetaisyklingiVeiksmaz.exe
+C:\Users\Adomas\source\repos\NetaisyklingiVeiksmaz\NetaisyklingiVeiksmaz\obj\Debug\NetaisyklingiVeiksmaz.pdb
